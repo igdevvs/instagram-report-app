@@ -1,4 +1,4 @@
-# instagram-report-app
+# instagram-report-tool
 A powerful tool for reporting Instagram accounts.
 
 developer: https://t.me/instareport_tool 
