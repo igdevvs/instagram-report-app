@@ -19,7 +19,7 @@ for further guide:
 
 contact developer: https://t.me/instareport_tool
 
-automated tool for sending bulk reports to Instagram IDs
+automated tool for sending bulk reports to Instagram IDs, fast mass report bot
 
 # insta reporter
 instagram report gigs are available
